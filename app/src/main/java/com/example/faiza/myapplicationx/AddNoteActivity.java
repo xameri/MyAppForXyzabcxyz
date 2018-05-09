@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+//testing commiting
+
 public class AddNoteActivity extends AppCompatActivity {
 
     Button buttonSave;
